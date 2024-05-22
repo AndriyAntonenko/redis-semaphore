@@ -63,6 +63,4 @@ typings/
 # dotenv environment variables file
 .env
 
-es
-lib
 /.idea/
